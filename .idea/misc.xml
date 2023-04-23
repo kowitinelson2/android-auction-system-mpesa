@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2015" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/drawable/bg_edittext_default.xml" value="0.2015" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2015" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_auction_bids.xml" value="0.22447916666666667" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_auction_item.xml" value="0.19" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_base.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_bidder_service.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_home.xml" value="0.21" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/auction_list_item.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/bids_list_item.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/dialog_submit_bid.xml" value="0.18" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/dialog_user_details.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/file_paths.xml" value="0.22447916666666667" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_auction_items.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_auctions_won.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_create_auction.xml" value="0.22" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_open_auctions.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragment_signup.xml" value="0.18432971014492755" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/fragmet_auction_items.xml" value="0.16893115942028986" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/layout_drawer_item.xml" value="0.18432971014492755" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/layout_toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/layout/workspace.xml" value="0.1" />
+        <entry key="..\:/android auction system/MyApplication21/app/src/main/res/xml/file_paths.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
